@@ -5,7 +5,7 @@ body{
 	padding:0;
 }
 
-#canvas{
+.magazine-viewport{
 	background-color: #57101c;
 	padding: 20px
 }
