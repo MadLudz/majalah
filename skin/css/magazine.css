@@ -1,5 +1,8 @@
+* {
+	box-sizing: border-box;
+}
 body{
-	overflow:scroll;
+	overflow:hidden;
 	background-color:#fcfcfc;
 	margin:0;
 	padding:0;
@@ -7,7 +10,7 @@ body{
 
 .magazine-viewport{
 	background-color: #57101c;
-	padding: 20px
+	padding: 20px;
 }
 .magazine-viewport .container{
 	position:absolute;
