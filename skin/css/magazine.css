@@ -3,7 +3,7 @@
 }
 body{
 	overflow:hidden;
-	background-color:#fcfcfc;
+	background-color:#383838;
 	margin:0;
 	padding:0;
 }
@@ -13,9 +13,10 @@ body{
 	padding: 20px;
 }
 .magazine-viewport .container{
+	background-color: #0066FF;
 	position:absolute;
-	top:50%;
-	left:50%;
+	top: 50%;
+	left: 50%;
 	width:1136px;
 	height:400px;
 }
