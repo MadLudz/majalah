@@ -20,8 +20,10 @@ body{
 }
 
 .side{
+	background-color: #9bb81a;
 	width: 20%;
 }
+
 .magazine-viewport .container{
 	background-color: #0066FF;
 	position:absolute;
