@@ -8,7 +8,7 @@ body{
 	padding:0;
 }
 
-.canvas{
+#canvas{
 	background-color: #456aa3;
 	padding: 20px;
 }
@@ -22,7 +22,7 @@ body{
 	top: 50%;
 	left: 50%;
 	width:284px;
-	height:400px;
+	height:200px;
 }
 
 .magazine-viewport .magazine{
