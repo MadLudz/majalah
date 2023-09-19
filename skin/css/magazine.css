@@ -24,6 +24,13 @@ body{
 	width: 20%;
 }
 
+#canvas:after {
+	content: "";
+	display: table;
+	clear: both;
+
+}
+
 .magazine-viewport .container{
 	background-color: #0066FF;
 	position:;
