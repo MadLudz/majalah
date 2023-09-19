@@ -9,12 +9,18 @@ body{
 }
 
 #canvas{
+	float: left;
 	background-color: #456aa3;
-	padding: 20px;
+	padding: 10px;
 }
 .magazine-viewport{
 	background-color: #57101c;
 	padding: 20px;
+	width: 80%;
+}
+
+.side{
+	width: 20%;
 }
 .magazine-viewport .container{
 	background-color: #0066FF;
