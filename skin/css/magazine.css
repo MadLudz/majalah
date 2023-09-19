@@ -8,6 +8,10 @@ body{
 	padding:0;
 }
 
+.canvas{
+	background-color: #456aa3;
+	padding: 20px;
+}
 .magazine-viewport{
 	background-color: #57101c;
 	padding: 20px;
